@@ -6,10 +6,11 @@
 	"scripts": {
 		"dev": "vite --watch",
 		"build": "vite build",
-		"preview": "vite preview"
+		"preview": "vite preview",
+		"preview:zcli": "zcli themes:preview --port=5500"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Reza Firdaus",
 	"license": "ISC",
 	"dependencies": {
 		"autoprefixer": "^10.4.20",
